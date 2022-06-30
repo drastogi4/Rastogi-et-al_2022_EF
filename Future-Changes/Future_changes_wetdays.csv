@@ -1,0 +1,9 @@
+﻿Experiment,Northwest,West,Northern Rockies,Southwest,South,Upper Midwest,Ohio Valley,Southeast,Northeast
+CMIP6 GCM,-1.138,-1.321,0.201,-1.380,-2.794,0.113,-0.263,1.653,1.204
+Dynamical (RCM),-0.870,1.142,1.896,0.355,-2.643,0.683,-0.570,-1.253,-0.607
+Dynamical (RCM) corrected with Livneh,0.939,0.639,1.412,0.460,-0.844,0.655,-0.090,-0.453,0.489
+Dynamical (RCM) corrected with Daymet ,0.040,0.011,0.482,0.103,-0.253,0.398,-0.063,-0.229,0.139
+Statistical (DBCCA) trained with Livneh,1.518,0.540,1.354,0.350,-0.187,1.414,0.974,0.974,2.010
+Statistical (DBCCA) trained with Daymet,0.325,0.103,0.473,0.133,-0.021,0.978,0.529,0.196,1.010
+,,,,,,,,,
+Projected future changes in number of wet days,,,,,,,,,

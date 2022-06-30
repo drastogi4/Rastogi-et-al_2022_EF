@@ -1,0 +1,9 @@
+﻿Experiment,Northwest,West,Northern Rockies,Southwest,South,Upper Midwest,Ohio Valley,Southeast,Northeast
+CMIP6 GCM,2.365,1.957,2.777,2.193,1.707,3.812,3.158,1.639,3.823
+Dynamical (RCM),2.911,2.806,3.149,3.154,2.53,4.232,3.914,1.792,3.922
+Dynamical (RCM) corrected with Livneh,2.833,2.744,3.28,3.124,2.538,4.202,3.825,1.814,3.831
+Dynamical (RCM) corrected with Daymet ,2.826,2.737,3.29,3.13,2.543,4.218,3.909,1.808,3.874
+Statistical (DBCCA) trained with Livneh,2.081,1.681,3.056,1.968,1.699,3.89,3.141,1.509,3.493
+Statistical (DBCCA) trained with Daymet,1.972,1.584,3.186,1.851,1.616,4.025,3.101,1.423,3.459
+,,,,,,,,,
+Projected future changes in 5th percentile of  daily minimum temperature (oC) at regional scale,,,,,,,,,
