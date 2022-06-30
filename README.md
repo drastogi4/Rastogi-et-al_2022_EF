@@ -2,7 +2,7 @@
 This repository contains analysis code for Rastogi et al., 2022
 corresponding author: rastogid@ornl.gov
 
-Input data and code
+Input data and code:
 All the CMIP6 GCMs data are publicly available (from https://esgf-node.llnl.gov/projects/cmip6/). The source code for RegCM4 is available online (from https://github.com/ICTP/RegCM). 
 
 Analysis code
