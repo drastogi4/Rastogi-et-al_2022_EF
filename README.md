@@ -13,4 +13,4 @@ The Future-Changes provides projected future changes at regional scale and scrip
 Probability-Density-Plots scripts are used to create the probability density plots for extreme and mean indices.
 
 cite the code:
-[![DOI](https://zenodo.org/badge/509179629.svg)](https://zenodo.org/badge/latestdoi/509179629)
+(https://zenodo.org/badge/509179629.svg)](https://zenodo.org/badge/latestdoi/509179629)
